@@ -1,0 +1,12 @@
+/*CSS code unique to this page, eg. color scheme*/
+
+:root {
+    --background: #27374D;
+    --foreground: #9DB2BF;
+    --button: #c2d9e1;
+    --hover: #9dc4cf;
+    --border: #000000;
+    --active: #81b1cc;
+    --lighttext: #FFFFFF;
+    --darktext: #000000;
+  }

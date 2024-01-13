@@ -1,0 +1,20 @@
+/* a bunch of classes */
+:root {
+  --playlist-width: 60%;
+  --input-width: 10%;
+  --column-height: 75vh;
+}
+
+
+div.colored{
+    background-color: var(--foreground);
+}
+
+
+/*TODO: make button wrapper to stay bottom right*/
+
+button.bottom-right{
+    position: absolute;
+    bottom:1vh;
+    right:1vw;
+}
