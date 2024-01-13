@@ -1,0 +1,386 @@
+[
+    {
+      "id": "22uakQeQOeymPIpdg9NWDN",
+      "tempo": 74.965,
+      "avg_loudness": -10.517,
+      "href": "https://api.spotify.com/v1/tracks/22uakQeQOeymPIpdg9NWDN",
+      "name": "i won't fall",
+      "genre": "lofichill"
+    },
+    {
+      "id": "70NVlyRnQ3TjsnCSY8VDG6",
+      "tempo": 175.711,
+      "avg_loudness": -6.993,
+      "href": "https://api.spotify.com/v1/tracks/70NVlyRnQ3TjsnCSY8VDG6",
+      "name": "The Devils Reunion",
+      "genre": "lofichill"
+    },
+    {
+      "id": "5PIShrqk15KmOEwPGKiQnD",
+      "tempo": 105.1,
+      "avg_loudness": -11.496,
+      "href": "https://api.spotify.com/v1/tracks/5PIShrqk15KmOEwPGKiQnD",
+      "name": "i'm not perfect",
+      "genre": "lofichill"
+    },
+    {
+      "id": "5damcFcjWVgt4Hy1Ie37Qr",
+      "tempo": 105.058,
+      "avg_loudness": -16.007,
+      "href": "https://api.spotify.com/v1/tracks/5damcFcjWVgt4Hy1Ie37Qr",
+      "name": "Letter from a Crow",
+      "genre": "lofichill"
+    },
+    {
+      "id": "3u2Ce9xN8R4AHgxANJ73CN",
+      "tempo": 118.027,
+      "avg_loudness": -9.069,
+      "href": "https://api.spotify.com/v1/tracks/3u2Ce9xN8R4AHgxANJ73CN",
+      "name": "go to h<3ll",
+      "genre": "lofichill"
+    },
+    {
+      "id": "2LGEb04cnweMm8wUehz1Qd",
+      "tempo": 110.03,
+      "avg_loudness": -18.792,
+      "href": "https://api.spotify.com/v1/tracks/2LGEb04cnweMm8wUehz1Qd",
+      "name": "sick of love",
+      "genre": "lofichill"
+    },
+    {
+      "id": "1tfAVU1HIrtlr79isORUW6",
+      "tempo": 157.997,
+      "avg_loudness": -10.743,
+      "href": "https://api.spotify.com/v1/tracks/1tfAVU1HIrtlr79isORUW6",
+      "name": "I Love You, That's the Problem",
+      "genre": "lofichill"
+    },
+    {
+      "id": "6JvANdRApBuHOHZUnmGYx0",
+      "tempo": 117.618,
+      "avg_loudness": -12.813,
+      "href": "https://api.spotify.com/v1/tracks/6JvANdRApBuHOHZUnmGYx0",
+      "name": "soul ties",
+      "genre": "lofichill"
+    },
+    {
+      "id": "2N6Xyz9NjuCIRIYM46OO9x",
+      "tempo": 112.872,
+      "avg_loudness": -18.308,
+      "href": "https://api.spotify.com/v1/tracks/2N6Xyz9NjuCIRIYM46OO9x",
+      "name": "Summer Luv",
+      "genre": "lofichill"
+    },
+    {
+      "id": "0RltvtD2XsNxb3ALAxpLVE",
+      "tempo": 124.995,
+      "avg_loudness": -10.206,
+      "href": "https://api.spotify.com/v1/tracks/0RltvtD2XsNxb3ALAxpLVE",
+      "name": "Lose A Friend",
+      "genre": "lofichill"
+    },
+    {
+      "id": "4NHsEHQtUKErl9uXA6Y0nm",
+      "tempo": 80.003,
+      "avg_loudness": -10.722,
+      "href": "https://api.spotify.com/v1/tracks/4NHsEHQtUKErl9uXA6Y0nm",
+      "name": "All Alone",
+      "genre": "lofichill"
+    },
+    {
+      "id": "4wPKIvdC04v7mhO2DfRQHj",
+      "tempo": 54.054,
+      "avg_loudness": -17.074,
+      "href": "https://api.spotify.com/v1/tracks/4wPKIvdC04v7mhO2DfRQHj",
+      "name": "Don't Let Me Go",
+      "genre": "lofichill"
+    },
+    {
+      "id": "4nUrQ89U5l3AGZDDP8cYxH",
+      "tempo": 140.045,
+      "avg_loudness": -11.198,
+      "href": "https://api.spotify.com/v1/tracks/4nUrQ89U5l3AGZDDP8cYxH",
+      "name": "Find You",
+      "genre": "lofichill"
+    },
+    {
+      "id": "5SIEobqoYfSnpxMOAmU7ix",
+      "tempo": 94.986,
+      "avg_loudness": -16.422,
+      "href": "https://api.spotify.com/v1/tracks/5SIEobqoYfSnpxMOAmU7ix",
+      "name": "i've got you if you've got me (stripped version)",
+      "genre": "lofichill"
+    },
+    {
+      "id": "0MO1qNhm8aRZchi8CJlIRo",
+      "tempo": 181.032,
+      "avg_loudness": -12.663,
+      "href": "https://api.spotify.com/v1/tracks/0MO1qNhm8aRZchi8CJlIRo",
+      "name": "Can't Love Myself",
+      "genre": "lofichill"
+    },
+    {
+      "id": "2sRfqd7xfEBUQWVqTp9zM6",
+      "tempo": 103.968,
+      "avg_loudness": -16.783,
+      "href": "https://api.spotify.com/v1/tracks/2sRfqd7xfEBUQWVqTp9zM6",
+      "name": "Up All Night",
+      "genre": "lofichill"
+    },
+    {
+      "id": "2OecBoV6iNERRsjrU3uKKi",
+      "tempo": 116.602,
+      "avg_loudness": -16.026,
+      "href": "https://api.spotify.com/v1/tracks/2OecBoV6iNERRsjrU3uKKi",
+      "name": "Bizet: Carmen, Act 1: Habanera. \"L'amour est un oiseau rebelle\" (Carmen, Ch\u0153ur)",
+      "genre": "classical"
+    },
+    {
+      "id": "4r47laI3jh9df9zjKezxhD",
+      "tempo": 72.289,
+      "avg_loudness": -33.092,
+      "href": "https://api.spotify.com/v1/tracks/4r47laI3jh9df9zjKezxhD",
+      "name": "No. 7",
+      "genre": "classical"
+    },
+    {
+      "id": "38EmZT3oWA6lJE0o4ajfG8",
+      "tempo": 97.836,
+      "avg_loudness": -19.859,
+      "href": "https://api.spotify.com/v1/tracks/38EmZT3oWA6lJE0o4ajfG8",
+      "name": "Liebesleid (Love's Sorrow)",
+      "genre": "classical"
+    },
+    {
+      "id": "2GnYCy70I8cR4oEA2wsSDx",
+      "tempo": 74.497,
+      "avg_loudness": -36.172,
+      "href": "https://api.spotify.com/v1/tracks/2GnYCy70I8cR4oEA2wsSDx",
+      "name": "The Hours: An Unwelcome Friend (From \"The Hours\")",
+      "genre": "classical"
+    },
+    {
+      "id": "0Z0JD8rj0ZgQ9zuHawbUdg",
+      "tempo": 79.141,
+      "avg_loudness": -22.171,
+      "href": "https://api.spotify.com/v1/tracks/0Z0JD8rj0ZgQ9zuHawbUdg",
+      "name": "Missa l'homme arm\u00e9 super voces musicales: V. Agnus Dei",
+      "genre": "classical"
+    },
+    {
+      "id": "5PYsU4WP9OqecMFd2zc7xz",
+      "tempo": 69.28,
+      "avg_loudness": -27.135,
+      "href": "https://api.spotify.com/v1/tracks/5PYsU4WP9OqecMFd2zc7xz",
+      "name": "Sonata K. 208, L. 238 A Major - Adagio E Cantabile",
+      "genre": "classical"
+    },
+    {
+      "id": "0htpVtYJDwrWkdZyB61jel",
+      "tempo": 100.898,
+      "avg_loudness": -17.168,
+      "href": "https://api.spotify.com/v1/tracks/0htpVtYJDwrWkdZyB61jel",
+      "name": "Music for 18 Musicians: Pulses",
+      "genre": "classical"
+    },
+    {
+      "id": "4G9nvquG9wJNTnBeuJ1Pbp",
+      "tempo": 77.324,
+      "avg_loudness": -36.382,
+      "href": "https://api.spotify.com/v1/tracks/4G9nvquG9wJNTnBeuJ1Pbp",
+      "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+      "genre": "classical"
+    },
+    {
+      "id": "7vhOrXq4IYiRjhz2jXhA7M",
+      "tempo": 91.462,
+      "avg_loudness": -23.335,
+      "href": "https://api.spotify.com/v1/tracks/7vhOrXq4IYiRjhz2jXhA7M",
+      "name": "Cassad\u00f3: Toccata (in the Style of Frescobaldi)",
+      "genre": "classical"
+    },
+    {
+      "id": "3N7GpFlh7BkEftNaEmJjnU",
+      "tempo": 94.423,
+      "avg_loudness": -32.365,
+      "href": "https://api.spotify.com/v1/tracks/3N7GpFlh7BkEftNaEmJjnU",
+      "name": "Sonata in D Minor, K. 9",
+      "genre": "classical"
+    },
+    {
+      "id": "3bDA5rMBde88xVYgm1oIUw",
+      "tempo": 90.666,
+      "avg_loudness": -21.408,
+      "href": "https://api.spotify.com/v1/tracks/3bDA5rMBde88xVYgm1oIUw",
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "genre": "classical"
+    },
+    {
+      "id": "6tmzIxHREnZzKSDMm6CNNS",
+      "tempo": 77.307,
+      "avg_loudness": -27.853,
+      "href": "https://api.spotify.com/v1/tracks/6tmzIxHREnZzKSDMm6CNNS",
+      "name": "Poulenc: Cello Sonata, FP 143: II. Cavatine",
+      "genre": "classical"
+    },
+    {
+      "id": "0mTUTkFQ2MxmUHFL8EdfeR",
+      "tempo": 78.132,
+      "avg_loudness": -16.798,
+      "href": "https://api.spotify.com/v1/tracks/0mTUTkFQ2MxmUHFL8EdfeR",
+      "name": "The Firebird (L'oiseau De Feu) - Suite (1919): Finale",
+      "genre": "classical"
+    },
+    {
+      "id": "1bCHiN7seH9NJ2fOdhli2x",
+      "tempo": 103.893,
+      "avg_loudness": -21.124,
+      "href": "https://api.spotify.com/v1/tracks/1bCHiN7seH9NJ2fOdhli2x",
+      "name": "Sonata For 2 Pianos And Percussion, Sz. 110: 1. Assai lento",
+      "genre": "classical"
+    },
+    {
+      "id": "7zHd9LxIZB8WKosSWN9Umj",
+      "tempo": 84.208,
+      "avg_loudness": -28.383,
+      "href": "https://api.spotify.com/v1/tracks/7zHd9LxIZB8WKosSWN9Umj",
+      "name": "Spiegel im spiegel",
+      "genre": "classical"
+    },
+    {
+      "id": "45ApCC23H9qz2bVqS7WbGS",
+      "tempo": 83.996,
+      "avg_loudness": -32.531,
+      "href": "https://api.spotify.com/v1/tracks/45ApCC23H9qz2bVqS7WbGS",
+      "name": "Suite in E Minor: V. Les rappel des Oiseaux",
+      "genre": "classical"
+    },
+    {
+      "id": "0ve9Tpz8Yw0I4eXhWsy21o",
+      "tempo": 134.982,
+      "avg_loudness": -4.077,
+      "href": "https://api.spotify.com/v1/tracks/0ve9Tpz8Yw0I4eXhWsy21o",
+      "name": "\u30ef\u30bf\u30ea\u30c9\u30ea",
+      "genre": "animerock"
+    },
+    {
+      "id": "769M0ezv1bE1Mz1d4xP7gc",
+      "tempo": 143.911,
+      "avg_loudness": -2.615,
+      "href": "https://api.spotify.com/v1/tracks/769M0ezv1bE1Mz1d4xP7gc",
+      "name": "CQCQ",
+      "genre": "animerock"
+    },
+    {
+      "id": "5ivhfpfnoHhD8rUI2t3aJG",
+      "tempo": 170.957,
+      "avg_loudness": -2.41,
+      "href": "https://api.spotify.com/v1/tracks/5ivhfpfnoHhD8rUI2t3aJG",
+      "name": "IGNITE",
+      "genre": "animerock"
+    },
+    {
+      "id": "0msE3v0pQgGttnlZjrLzWj",
+      "tempo": 104.083,
+      "avg_loudness": -3.451,
+      "href": "https://api.spotify.com/v1/tracks/0msE3v0pQgGttnlZjrLzWj",
+      "name": "\u9583\u5149",
+      "genre": "animerock"
+    },
+    {
+      "id": "21htkjP5rYjD3CXG3y9wCT",
+      "tempo": 171.637,
+      "avg_loudness": -4.844,
+      "href": "https://api.spotify.com/v1/tracks/21htkjP5rYjD3CXG3y9wCT",
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "genre": "animerock"
+    },
+    {
+      "id": "0kA7SWxWPYqSyIbMl51X5b",
+      "tempo": 144.128,
+      "avg_loudness": -4.744,
+      "href": "https://api.spotify.com/v1/tracks/0kA7SWxWPYqSyIbMl51X5b",
+      "name": "\u541b\u306b\u5c4a\u3051",
+      "genre": "animerock"
+    },
+    {
+      "id": "1EaFI8SXwrgD3qrHhdkyZK",
+      "tempo": 139.858,
+      "avg_loudness": -4.06,
+      "href": "https://api.spotify.com/v1/tracks/1EaFI8SXwrgD3qrHhdkyZK",
+      "name": "\u30e1\u30d3\u30a6\u30b9",
+      "genre": "animerock"
+    },
+    {
+      "id": "1OAp6qN5KmoGUQ2edICKsC",
+      "tempo": 104.955,
+      "avg_loudness": -4.596,
+      "href": "https://api.spotify.com/v1/tracks/1OAp6qN5KmoGUQ2edICKsC",
+      "name": "Ghost Rule",
+      "genre": "animerock"
+    },
+    {
+      "id": "2TxKGOUmz6RVFPRSGdN4Cq",
+      "tempo": 195.011,
+      "avg_loudness": -4.07,
+      "href": "https://api.spotify.com/v1/tracks/2TxKGOUmz6RVFPRSGdN4Cq",
+      "name": "Outer Science",
+      "genre": "animerock"
+    },
+    {
+      "id": "2cErTn7DU75ZILisPP34TB",
+      "tempo": 170.88,
+      "avg_loudness": -4.594,
+      "href": "https://api.spotify.com/v1/tracks/2cErTn7DU75ZILisPP34TB",
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "genre": "animerock"
+    },
+    {
+      "id": "2RBQ84niVRC6bBdhe7lc9F",
+      "tempo": 94.963,
+      "avg_loudness": -2.837,
+      "href": "https://api.spotify.com/v1/tracks/2RBQ84niVRC6bBdhe7lc9F",
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "genre": "animerock"
+    },
+    {
+      "id": "5XJh3VbvvnGYrkubcQwzys",
+      "tempo": 105.058,
+      "avg_loudness": -5.443,
+      "href": "https://api.spotify.com/v1/tracks/5XJh3VbvvnGYrkubcQwzys",
+      "name": "Gimme\u00d7Gimme feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3",
+      "genre": "animerock"
+    },
+    {
+      "id": "5s0AxcVJJD2YYPstMb61ro",
+      "tempo": 94.277,
+      "avg_loudness": -3.014,
+      "href": "https://api.spotify.com/v1/tracks/5s0AxcVJJD2YYPstMb61ro",
+      "name": "Goya No Machiawase",
+      "genre": "animerock"
+    },
+    {
+      "id": "2VBLFxCUyFp5BfmsZpxcis",
+      "tempo": 169.955,
+      "avg_loudness": -4.748,
+      "href": "https://api.spotify.com/v1/tracks/2VBLFxCUyFp5BfmsZpxcis",
+      "name": "\u7d46\u30ce\u5947\u8de1",
+      "genre": "animerock"
+    },
+    {
+      "id": "7fPazfXuMWP2jRTM7d3C53",
+      "tempo": 133.974,
+      "avg_loudness": -5.198,
+      "href": "https://api.spotify.com/v1/tracks/7fPazfXuMWP2jRTM7d3C53",
+      "name": "About Me",
+      "genre": "animerock"
+    },
+    {
+      "id": "0afSduWztLk9ko6grenzWE",
+      "tempo": 95.026,
+      "avg_loudness": -1.939,
+      "href": "https://api.spotify.com/v1/tracks/0afSduWztLk9ko6grenzWE",
+      "name": "Chikyuu Saigo No Kokuhaku Wo",
+      "genre": "animerock"
+    }
+  ]
