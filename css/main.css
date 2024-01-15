@@ -8,6 +8,7 @@
 h1{
   text-align: center;
   color: var(--lighttext);
+  font-size: 24px;
 }
 html{
   height:100vh;

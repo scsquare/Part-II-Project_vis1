@@ -15,8 +15,8 @@ div.colored{
 
 button.bottom-right{
     position: absolute;
-    bottom:1vh;
-    right:1vw;
+    bottom:4vh;
+    right:2vw;
 }
 
 div.label{
@@ -30,4 +30,8 @@ div.label{
   border-radius: 8px;
   pointer-events: none;
   font-size: .9rem;
+}
+
+p.white{
+  color:#f9f9f9;
 }

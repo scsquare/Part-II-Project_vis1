@@ -9,18 +9,21 @@
   <link href="css/class.css" rel="stylesheet">
 
   <script src="https://d3js.org/d3.v4.js"></script>
-
+  <script src="js/labelled_dots.js"></script>
+  <script src="js/save_results.js" defer></script> <!--remember the defer-->
 
 
 </head>
 
 <body>
-  <h1>Hello world. </h1>
-
+  <h1 id="question">Part A: guess what song C sounds like?</h1>
+  <div>  <p id="results" class="white"> Results:  </p>
+  </div>
 
   <div id="my_dataviz" class="colored default"></div>
   <script src="js/myfirstplot.js" type="module"></script>
-    
+
+  <button id="next" class="bottom-right">Next</button>
 </body>
 
 </html>
