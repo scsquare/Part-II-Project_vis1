@@ -1,4 +1,3 @@
-var coordinates=[0,0];
  
  //the label
 var label_div = d3.select("#my_dataviz").append("div")
@@ -31,12 +30,13 @@ svg.append("text")
 
 
 
+
 //Read the data
-d3.json("data/spotify.json",function(data) {
+d3.json("data/userstudy.json",function(data) {
 
     // Add X axis
     var x = d3.scaleLinear()
-    .domain([20, 200])
+    .domain([0, 50])
     .range([ 0, width ]);
     svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -44,7 +44,7 @@ d3.json("data/spotify.json",function(data) {
 
     // Add Y axis
     var y = d3.scaleLinear()
-    .domain([-45, 0])
+    .domain([0, 50])
     .range([ height, 0]);
     svg.append("g")
     .call(d3.axisLeft(y));

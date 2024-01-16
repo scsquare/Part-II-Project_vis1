@@ -19,6 +19,13 @@ button.bottom-right{
     right:2vw;
 }
 
+button.top-right{
+  position: absolute;
+  top:4vh;
+  right:2vw;
+}
+
+
 div.label{
   /*https://medium.com/@kj_schmidt/hover-effects-for-your-scatter-plot-447df80ea116*/
   position: absolute;

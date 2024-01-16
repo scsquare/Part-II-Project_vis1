@@ -10,6 +10,9 @@
 
   <script src="https://d3js.org/d3.v4.js"></script>
   <script src="js/labelled_dots.js"></script>
+  <script src="js/init.js"></script>
+
+  <script src="js/which.js" defer></script>
   <script src="js/save_results.js" defer></script> <!--remember the defer-->
 
 
@@ -17,11 +20,15 @@
 
 <body>
   <h1 id="question">Part A: guess what song C sounds like?</h1>
+
   <div>  <p id="results" class="white"> Results:  </p>
   </div>
 
   <div id="my_dataviz" class="colored default"></div>
-  <script src="js/myfirstplot.js" type="module"></script>
+  <button id="toggle" class="top-right"> Toggle: this is spotify plot</button>
+
+
+  <script src="js/myplot.js" type="module"></script>
 
   <button id="next" class="bottom-right">Next</button>
 </body>
